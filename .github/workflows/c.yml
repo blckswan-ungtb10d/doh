@@ -1,4 +1,4 @@
-name: Backbiter
+name: Ubuntu
 
 on: [push]
 
