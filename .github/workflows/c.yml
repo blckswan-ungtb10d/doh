@@ -1,6 +1,6 @@
-name: Backbiter
+name: ubuntu
 
-on: [push]
+on: [ubuntu]
 
 jobs:
   build:
